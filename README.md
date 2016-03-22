@@ -1,0 +1,1 @@
+# spring-test-java-based-config
